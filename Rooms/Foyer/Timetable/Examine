@@ -1,0 +1,14 @@
+0 You examine the timetable to see the list of films that are on.
+	===============================================================
+	18:10 - Lord Of The Flying Rings [3D] (PG), Screen 2
+	18:30 - Anne Boleyn and the King (12), Screen 4
+	18:35 - Fat Cats Learn to Love (15), Screen 3
+	18:45 - Lord Of The Flying Rings [2D] (PG), Screen 5
+	18:45 - Flesh Eating Prostitutes (18), Screen 1
+	18:55 - Shrek 7 [3D] (18), Screen 6
+	19:10 - Hot Pants: A Documentary! [3D] (12), Screen 8
+	19:15 - Thin White Line [1D] (PG), Screen 7
+	===============================================================
+	You know you'd prefer to watch "Anne Boleyn", but then again, you said that you'd be wild today...
+	Which one are you going to choose?
+	[[input:filmchoice]]
